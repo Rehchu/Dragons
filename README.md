@@ -12,11 +12,13 @@ Chapters live in [`chapters/`](chapters/), numbered in reading order.
 
 | # | Title | Status | File |
 |---|-------|--------|------|
+| 01 | The Ashford Breach | Draft | [`chapters/01-the-ashford-breach.md`](chapters/01-the-ashford-breach.md) |
 | 03 | The Council's Verdict | Draft | [`chapters/03-councils-verdict.md`](chapters/03-councils-verdict.md) |
 
-> Numbering starts at 03 deliberately — the opening two chapters (the Ashford breach and
-> the taking of the wyrm) are referenced here and reserved to be written, so this pivotal
-> council scene sits in its true place in the saga rather than being renumbered later.
+> Chapter 01 is now drafted — the egg-in-the-ash opening, the burning of Ashford, the three
+> words, and the wyrm flying *toward* the cage. Chapter 02 (the taking of the wyrm) remains
+> reserved, so the numbering leaves its slot open and the pivotal council scene sits in its
+> true place in the saga rather than being renumbered later.
 
 ## The World, so far
 

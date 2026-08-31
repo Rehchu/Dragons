@@ -5,8 +5,9 @@ from prose that exists on the page. Where a fact is only implied, it is marked* 
 *where it is named but never explained, it is marked* (unexplained). *Nothing here is
 invented beyond the text — this is a mirror held up to Chapter Three, not a new draft.*
 
-Source of truth as of this writing: `chapters/03-councils-verdict.md` (the only written
-chapter). Two earlier chapters are reserved but unwritten (see `AUDIT.md`).
+Source of truth as of this writing: `chapters/01-the-ashford-breach.md` and
+`chapters/03-councils-verdict.md` (the two written chapters). Chapter 02 (the taking of the
+wyrm) is reserved but unwritten (see `AUDIT.md`).
 
 ---
 
@@ -108,6 +109,38 @@ and to speak the unlawful fourth: **god**. This is the load-bearing idea of the 
 - Section headers within a chapter (## The Nine / ## The Argument / ## Aldric / ## The Kneeling
   / ## The Gates Bar Shut).
 - Each chapter closes with an italic *coda* that seeds the next.
+
+---
+
+## The Ashford Breach — Chapter One additions
+
+*New canon promoted from `chapters/01-the-ashford-breach.md`.*
+
+- **The egg in the ash.** At the heart of burned Ashford, in the deep warm ash of the fallen
+  **meeting-hall**, lay an **egg** the size of a curled sleeping man — ridged, dark, faintly
+  translucent at its crown, forge-warm, glowing when the boy touched it. It emits the same
+  **struck-bell / barred-door note** the Hall's great bar makes in Ch.3 (a deliberate echo).
+  After the breach it is **gone**, leaving a clean cold hollow its exact shape; it moves *east,
+  toward the cities*, one night's travel behind the outriders. Its relationship to the captured
+  wyrm is *(unexplained — a planted second-wyrm hook, distinct from the Ch.4 "true wings")*.
+- **The boy.** A nameless nine-year-old who returns to burned Ashford, finds and touches the
+  egg, does **not run**, and kneels beside it — explicitly rhymed with Aldric's kneeling.
+  Found dead among the garrison line by the outriders; his name is deliberately never recorded.
+- **The wyrm's origin.** It came **out of the ground** — out of an *older burning* Ashford
+  had built its meeting-hall over and forgotten — not down from the northern cold country.
+  It may have walked among Ashford "in some smaller borrowed shape" first *(implied, disputed
+  by the in-world histories)*.
+- **The three words = an *introduction*.** The surviving witness (unnamed here) tells a scribe
+  the words were "not a threat… an **introduction**," and that *understanding them is the whole
+  of the harm*. The scribe is **Peryn of the Archive** — canonically tying Ch.1 to Ch.3, and
+  establishing that the words' content is known to at least one dead witness but withheld from
+  the reader by choice, not by ignorance.
+- **Why it flew *toward* the cage.** Dramatised, not explained: it flies east "the way a letter
+  goes toward the hand it was addressed to." Reinforces Peryn's Ch.3 reading (*surrendered to be
+  recognized*) without resolving agency — still *(unexplained by design)*.
+- **The outriders / the cities' banner.** The Free Cities ride under **grey-and-iron banners**
+  (matching Callenreth's grey-and-iron robes) — first on-page confirmation the magistracy's
+  colours are grey and iron.
 
 ---
 

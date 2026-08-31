@@ -45,7 +45,7 @@ conceived on the page — proposed here to complete the arc).
 
 | # | Working title | State | Words | What it must carry |
 |---|---|---|---|---|
-| 01 | The Ashford Breach | 🟡 stub | 0 | The wyrm arrives; burns the spearmen; speaks the **three words**; flies *toward* the breach, not away. Highest-value write — pays down the most mystery-debt. |
+| 01 | The Ashford Breach | ✅ written | 2,413 | **Now drafted.** Opens on the **egg in the ash**; the wyrm rises from an older burning; burns the spearmen (*it bleeds*); speaks the **three words** (framed as an *introduction*, content still withheld); flies *toward* the cage. Adds the **egg** and the boy as new canon. |
 | 02 | The Taking of the Wyrm | 🟡 stub | 0 | The cage it "could have unmade with one breath"; the journey to the Hall; the cities learning a wyrm is coming to judgment. |
 
 ### Act II — The Verdict (the sealed hall)
