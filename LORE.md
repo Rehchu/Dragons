@@ -144,5 +144,54 @@ and to speak the unlawful fourth: **god**. This is the load-bearing idea of the 
 
 ---
 
+## The Taking of the Wyrm — Chapter Two additions
+
+*New canon promoted from `chapters/02-the-taking-of-the-wyrm.md`. This chapter closes Act I; the
+manuscript now reads in true order 01 → 02 → 03.*
+
+- **The Foundry Commission.** Before the full Nine would open the Hall, the cities convened a
+  *lesser* working council — guild-masters, quartermasters, and one warden to sign the warrants —
+  charged to build the fetter. It forged **the great chain** in **nine days** at the cost of "the
+  better part of three cities' charcoal": graduated links "like the ribs of a beached whale,"
+  and a **hinged, pinned collar** sized *by a guess* against a throat no one dared measure. The
+  largest single iron-work the Free Cities had ever made.
+- **The Archive's dry note.** Consulted, the Archive sent word that "the surest cage was the one
+  the creature had chosen," and that the commission "would be wiser to study *why* it came than to
+  strain over *how* to keep it." Filed and ignored — ties the Archive's Ch.3 stance (Peryn's
+  *surrendered to be recognized*) back one chapter, and shows the cities were *told* and did not
+  listen.
+- **The column & the muster.** The escort west was "the largest muster since the last lighting of
+  the beacon-chain": **two hundred of the border levy**, the Wallsmen's road-guard, the outriders,
+  the chain-wains, the smiths — under the **grey-and-iron banners**. Led by **Aldric ban Sorel**,
+  third-chair of the Southern Marches, because his seat was nearest the Ashford road and the fuller
+  Nine had not yet steeled themselves to come. **This is the first time Aldric sees the wyrm** —
+  weeks before his kneeling in Ch.3; he feels "the first cold finger" of what will undo him but
+  does not yet have the word. Seats Aldric's arc *before* the council scene.
+- **The setting of the collar = the taking, entire.** No battle. A **smith of the Ironmongers'
+  guild** walks out **alone**; the wyrm **lowers its head to the dust, to the level of a standing
+  man, and holds still** while he closes the collar and drives the pin — it "did not so much as
+  ripple." The smith "was never afterward, his wife said, entirely warm again." Reinforces the
+  wyrm's **chosen surrender**: "the chain was not on the wyrm. The chain was on the cities."
+- **The wyrm walks; the eleven-day road.** It is **not flown or dragged** to the Hall — it **walks
+  eleven days** at ox-wain pace, never straining the chain, **eating nothing anyone saw**. New
+  physical canon: it can travel overland at a walking pace and does not visibly feed.
+- **The egg follows the column home.** The Ch.1 hook is paid forward: a **warm, swept-smooth
+  hollow** the size of a curled sleeping thing appears in every cold fire the column leaves, **one
+  night's travel back**, all eleven days — and at journey's end is **at the city gate**, where a
+  **boy of the night-watch** finds it, feels the **barred-door bell-note**, and **does not run;
+  kneels.** The kneeling-motif now has **three** instances across three chapters. Still
+  *(unexplained by design — the planted second-wyrm hook)*.
+- **Why the Hall of Nine Keys.** Newly *explained*: the wyrm is housed there **by logistics, not
+  ritual** — the Foundry Commission's **stone pit / walled bedrock shaft** was only half-dug and
+  would stand unfinished for months, so a thing already chained could not wait. The cities sought
+  "a space already strong enough… built *to hold judgment*," and the Hall was nearest. Resolves
+  AUDIT §3.5 and the Ch.3 setup: **the cities led the wyrm into the judgment-hall with their own
+  hands, believing they led.** "It had come, in the end, exactly where it meant to come."
+- **The half-dug pit.** New place/object: an **unfinished walled shaft in the bedrock beneath the
+  road**, the Wallsmen's engineers' preferred cage, abandoned half-built when the Hall was used
+  instead. A loose thread for later chapters.
+
+---
+
 *Maintained by Draco, town lorekeeper, on branch `town/draco`. Update this file whenever a new
 chapter promotes an* (implied) *or* (unexplained) *item into settled canon.*

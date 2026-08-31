@@ -13,12 +13,15 @@ Chapters live in [`chapters/`](chapters/), numbered in reading order.
 | # | Title | Status | File |
 |---|-------|--------|------|
 | 01 | The Ashford Breach | Draft | [`chapters/01-the-ashford-breach.md`](chapters/01-the-ashford-breach.md) |
+| 02 | The Taking of the Wyrm | Draft | [`chapters/02-the-taking-of-the-wyrm.md`](chapters/02-the-taking-of-the-wyrm.md) |
 | 03 | The Council's Verdict | Draft | [`chapters/03-councils-verdict.md`](chapters/03-councils-verdict.md) |
 
-> Chapter 01 is now drafted — the egg-in-the-ash opening, the burning of Ashford, the three
-> words, and the wyrm flying *toward* the cage. Chapter 02 (the taking of the wyrm) remains
-> reserved, so the numbering leaves its slot open and the pivotal council scene sits in its
-> true place in the saga rather than being renumbered later.
+> **Act I is now whole.** Chapter 02 (the taking of the wyrm) is drafted, closing the gap
+> between the breach and the council: the forging of the great chain, the column that rides
+> west, the setting of the collar on a throat the iron barely spans, the eleven-day road home,
+> and the wyrm led *into the Hall of Nine Keys itself* because it is the nearest cage strong
+> enough — so the manuscript now reads in true order 01 → 02 → 03. The egg follows the column
+> home in the ash, one night's travel back, and is waiting at the city gate when the doors bar.
 
 ## The World, so far
 
