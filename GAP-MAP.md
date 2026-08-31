@@ -23,11 +23,11 @@ The Gap Map is the *roadmap*; those two are the *survey* and the *ledger*. Read 
 | Measure | Value | Source |
 |---|---|---|
 | Target length | **80,000 words** | `README.md`, dashboard `books.json` |
-| Written so far | **1 chapter — 2,032 words** | `chapters/03-councils-verdict.md` (`wc -w`) |
-| Percent of target written | **≈ 2.5 %** | 2,032 / 80,000 |
-| Words remaining | **≈ 77,968** | — |
-| Chapters written | **1** (Ch. 03) | — |
-| Chapters reserved-but-empty | **2 named** (Ch. 01, Ch. 02) + **1 teased** (Ch. 04) | README + Ch.03 coda |
+| Written so far | **4 chapters — 11,452 words** | `wc -w chapters/*.md` |
+| Percent of target written | **≈ 14.3 %** | 11,452 / 80,000 |
+| Words remaining | **≈ 68,548** | — |
+| Chapters written | **4** (Ch. 01, 02, 03, 04) | — |
+| Chapters reserved-but-empty | **0 named** (Act I + Ch.04 all drafted); **1 teased** (Ch. 05) | Ch.04 coda |
 | Official record | **`chapters: []`, 0 words logged** | dashboard `books.json`, `writing.daylog.json` |
 
 At a healthy epic-fantasy chapter length of **~3,000–3,500 words**, 80,000 words is roughly
@@ -53,8 +53,8 @@ conceived on the page — proposed here to complete the arc).
 | # | Working title | State | Words | What it must carry |
 |---|---|---|---|---|
 | 03 | The Council's Verdict | ✅ written | 2,032 | **Exists and strong.** The Nine convene; Aldric kneels and names it *god*; the doors bar with no hand on them. The saga's thesis, dramatised. |
-| 04 | The Temple That Was a Hall | 🟡 stub | 0 | *(Teased in Ch.3 coda.)* The barred hall becomes a temple; the **eight who did not kneel** each choose what to call the thing they now cannot leave; outside, **the first true wing** comes down out of the northern cloud. |
-| 05 | The First Wing | ⬛ missing | 0 | The city outside meets the second wyrm. What "true wing" means; whether the captive is master, kin, or lure. First wyrm-on-city event of the book. |
+| 04 | The Temple That Was a Hall | ✅ written | 3,848 | **Now drafted.** The barred hall becomes a temple; the **eight** each arrive at a private name; the **three unnamed councillors are named** (Ormund, Lisenne, Tobane); Tobane's *"it sees me"* finishes the turn; **the first true wing** comes down out of the northern cloud, circles, and settles on the hill north of the gate; the beacon-chain is lit; the egg stirs and the boy hears **three notes at once**. |
+| 05 | The First Wing | 🟡 next (teased in Ch.4 coda) | 0 | The city must reckon with the wing on the northern hill: is the captive **master, kin, or lure**? The sealed eight begin to learn what a god requires; the egg at the gate goes on stirring. The next chapter to draft. |
 | 06 | The Eight | ⬛ missing | 0 | Inside the sealed hall: the fracture. Vessa's panic hardens; Hedric's war-hunger meets a war he can't fight; Peryn's quiet knowing; the three unnamed councillors are finally named and forced to vote with their lives. |
 
 ### Act III — The Spread (the word gets out)
@@ -110,8 +110,9 @@ Beyond prose, the saga is missing these support files. Each is a small, high-lev
 
 - 🟡 **`OUTLINE.md`** — a beat-by-beat outline once the must-decide gaps are settled. This Gap
   Map is its skeleton; the outline puts muscle on it.
-- ⬛ **Cast sheet** — the **three unnamed councillors** need names, offices, and votes
-  (`LORE.md` flags exactly 6 of 9 named). Could live inside `LORE.md`.
+- ✅ **Cast sheet** — **resolved in Ch.4.** All nine councillors are now named, with offices and
+  stances, in `LORE.md` (Ormund of the Kilnward, Lisenne of the Fenreeve, Tobane the Younger join
+  the six from Ch.3).
 - ⬛ **Timeline / calendar** — the book has *no dates* (AUDIT §3.6). The Long Cold, the "forty
   years" since full council, and the breach need to sit on one spine.
 - ⬛ **Map / gazetteer** — only Ashford, the Southern Marches, and the eastern baronies are
@@ -139,10 +140,11 @@ Beyond prose, the saga is missing these support files. Each is a small, high-lev
 
 ## 5. One-line status
 
-**Written:** Ch. 03 only (2,032 w, ~2.5%). **Stubbed:** Ch. 01, 02 (reserved) + Ch. 04
-(teased). **Missing:** ~20–22 chapters (Acts III–V) and four support files. **Blocked on:**
-five authorial decisions, three of them urgent. The treasure is real but small; the vault is
-mostly still echo. This map is the path from the one lit lamp to the whole hall.
+**Written:** Ch. 01–04 (11,452 w, ~14.3%). Act I whole; Act II opened. **Next:** Ch. 05 —
+The First Wing (teased in Ch.4 coda). **Missing:** ~18–20 chapters (Acts III–V) and three
+support files. **Blocked on:** four authorial decisions (the *god vs. old word* gap is now
+settled by Peryn's "we kept the shelf, and lost the book" — the old word is lost, *god* is
+new). Four lamps lit now, and the hall is beginning to show its shape.
 
 ---
 *So charted, in the Library of Dyer Town. Update this map whenever a stub becomes prose or a

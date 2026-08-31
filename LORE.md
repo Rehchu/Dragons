@@ -193,5 +193,79 @@ manuscript now reads in true order 01 → 02 → 03.*
 
 ---
 
+## The Temple That Was a Hall — Chapter Four additions
+
+*New canon promoted from `chapters/04-the-temple-that-was-a-hall.md`. This chapter opens Act II's
+back half: the sealed hall becomes a temple, the eight who did not kneel each arrive at a private
+name for the creature, the **three unnamed councillors are named at last**, and outside, the
+**first true wing** comes down out of the northern cloud.*
+
+### The three unnamed councillors — now named (resolves the Nine)
+
+The Nine are complete. The six named in Ch.3 are joined by the three formerly-background seats:
+
+| Councillor | Office / faction | Their name for the creature | Notes |
+|---|---|---|---|
+| **Ormund of the Kilnward** | Master of the fire-guilds (potters, glaziers) | *the master of the fire* | Voted "someone else's problem" in Ch.3. Heavy, silent. **First of the three to buckle** — kneels before the well by the 2nd–3rd day, a fire-master meeting the master of fire. |
+| **Lisenne of the Fenreeve** | Warden of the fen country south of the river; keeper of dikes | *the flood that comes uphill* | Practical, patient (the fen teaches outlasting). **Resists longest of the three.** Weeps when she yields — "water always finds the low place." |
+| **Tobane the Younger** | Of the Coinhouse; least and most recently raised of the Nine | *(too frightened to name it)* → *"It sees me. Even me."* | Inherited his seat and his fear. The wyrm turns its eye on **him**, the least of them. His "it sees me" is **the naming the temple was waiting for** — the human one, not the grand one. |
+
+> **Canon principle established:** "A god is made a god … by the moment the least and most
+> forgettable creature in the room believes it has been *seen* — and is grateful." Tobane's
+> recognition, not Aldric's kneeling, is what finishes turning the hall into a temple.
+
+### The eight and their words (arrived at privately, not by vote)
+
+- **Vessa** — *a mechanism* → *a trick* → **silence** (her loudest confession; searches the walls
+  for a counterweight that isn't there; her "kneeling" though her knees never touch stone).
+- **Hedric** — *the enemy* (clings to it; paces the perimeter building a defense of a room he
+  can't leave, against a thing he can't fight; keeps saying it "the way a man says a name of
+  someone dead").
+- **Sera Lowe** — *a specimen* (writes the creature down by lamplight — length, eye-color, breath
+  interval, heat; the wyrm lets her near; after it *regards* her she can no longer write the word
+  "specimen," though she never crosses it out). Her unsigned account is cited as an in-world source.
+- **Peryn** — already had his word (*recognized*, Ch.3). New line, load-bearing for the central
+  mystery: **"We kept the shelf, and lost the book."** Confirms the Archive knows a word *existed*
+  but **does not know the word** — so *god* is Aldric's new name over a genuinely lost old one
+  (this settles AUDIT's "is *god* the old word?" toward: **no — the old word is lost; *god* is
+  new but "not wrong"**).
+- **Callenreth** — tries to keep presiding; addresses the well as a foreign throne; gets no
+  answer. His private, never-spoken word is *what comes after us*. He stops presiding and sits on
+  the steps — "the Hall had, in that moment, no council in it at all, only nine people and a god."
+
+### The second wyrm — the first true wing (new on the page)
+
+- **It flies.** Unlike the captive (which *walked* eleven days), the second wyrm **comes down out
+  of the northern cloud on the wing** — "true wings … the thing itself," made for air as the
+  captive seemed made for the well. New physical canon: wyrms fly, and not all behave alike.
+- **It does not attack (yet).** It **circles the city twice**, then **settles on the bald hill
+  north of the north gate** and lays its head toward the city and **waits** — mirroring the
+  captive's patience in the road east of Ashford. First wyrm-on-city event; deliberately *not* a
+  battle.
+- **The beacon-chain is lit.** The north-wall **watch-captain** lights the beacon; the old
+  warning-fire kindles **hill to hill across the plain**, carrying the alarm through the nine
+  magistracies faster than a rider. Pays off Hedric's Ch.3 mention of the beacon-chain.
+- Relationship of the two wyrms — master / kin / lure — is posed and **left open** *(the Ch.5
+  question)*.
+
+### The city outside, and the egg at the gate
+
+- The city **does not yet know** its council is sealed inside with the creature. Wardens brought
+  **rams, jacks, and forge-drills** against the barred bronze doors; the doors "received all of it
+  the way the sea receives a thrown stone." The **half-dug pit** is still being argued over.
+- **The fourth kneeling.** The **boy of the night-watch** keeps returning to the warm hollow in
+  the ash at the gate. When the beacon flares and the second wyrm settles, the **egg-thing stirs
+  for the first time**, and the boy hears **not one bell-note but three at once** — from the
+  sealed hall (captive), from the ash at his hands (the egg), and from the northern hill (the
+  wing) — "three struck notes … a single vast unseen instrument beginning to be played." The
+  kneeling-motif now has **four** instances; the boy's is framed as *possibly the first in the
+  reckoning no ledger kept*, because he alone knelt to the thing **not yet hatched**.
+
+> **The three notes / the instrument** — new recurring image: the deep bell-note (first heard as
+> the bar dropped in Ch.2/Ch.3) is now **three notes sounding together** across captive, egg, and
+> wing. *(unexplained by design — the metaphysics of how the wyrms are joined.)*
+
+---
+
 *Maintained by Draco, town lorekeeper, on branch `town/draco`. Update this file whenever a new
 chapter promotes an* (implied) *or* (unexplained) *item into settled canon.*
