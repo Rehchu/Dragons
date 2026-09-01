@@ -23,9 +23,9 @@ The Gap Map is the *roadmap*; those two are the *survey* and the *ledger*. Read 
 | Measure | Value | Source |
 |---|---|---|
 | Target length | **80,000 words** | `README.md`, dashboard `books.json` |
-| Written so far | **4 chapters — 11,452 words** | `wc -w chapters/*.md` |
-| Percent of target written | **≈ 14.3 %** | 11,452 / 80,000 |
-| Words remaining | **≈ 68,548** | — |
+| Written so far | **4 chapters — 12,606 words** | `wc -w chapters/*.md` |
+| Percent of target written | **≈ 15.8 %** | 12,606 / 80,000 |
+| Words remaining | **≈ 67,394** | — |
 | Chapters written | **4** (Ch. 01, 02, 03, 04) | — |
 | Chapters reserved-but-empty | **0 named** (Act I + Ch.04 all drafted); **1 teased** (Ch. 05) | Ch.04 coda |
 | Official record | **`chapters: []`, 0 words logged** | dashboard `books.json`, `writing.daylog.json` |
@@ -46,7 +46,7 @@ conceived on the page — proposed here to complete the arc).
 | # | Working title | State | Words | What it must carry |
 |---|---|---|---|---|
 | 01 | The Ashford Breach | ✅ written | 2,413 | **Now drafted.** Opens on the **egg in the ash**; the wyrm rises from an older burning; burns the spearmen (*it bleeds*); speaks the **three words** (framed as an *introduction*, content still withheld); flies *toward* the cage. Adds the **egg** and the boy as new canon. |
-| 02 | The Taking of the Wyrm | 🟡 stub | 0 | The cage it "could have unmade with one breath"; the journey to the Hall; the cities learning a wyrm is coming to judgment. |
+| 02 | The Taking of the Wyrm | ✅ written | 4,313 | **Now drafted.** The Foundry Commission forges the great chain over **nine days**; the westward column; Aldric ban Sorel's first sight of the wyrm; the collar set on a thing that "could have unmade it with one breath" and instead lowers its head — "the chain was on the cities." Closes Act I. Includes the coda *The Ground Remembers Its Name* (the older burning answers the egg). |
 
 ### Act II — The Verdict (the sealed hall)
 
@@ -142,11 +142,11 @@ Beyond prose, the saga is missing these support files. Each is a small, high-lev
 
 ## 5. One-line status
 
-**Written:** Ch. 01–04 (11,452 w, ~14.3%). Act I whole; Act II opened. **Next:** Ch. 05 —
-The First Wing (teased in Ch.4 coda). **Missing:** ~18–20 chapters (Acts III–V) and three
-support files. **Blocked on:** four authorial decisions (the *god vs. old word* gap is now
-settled by Peryn's "we kept the shelf, and lost the book" — the old word is lost, *god* is
-new). Four lamps lit now, and the hall is beginning to show its shape.
+**Written:** Ch. 01–04 (12,606 w, ~15.8%). Act I whole (01→02); Act II opened (03→04).
+**Next:** Ch. 05 — The First Wing (teased in Ch.4 coda). **Missing:** ~18–20 chapters
+(Acts III–V) and three support files. **Blocked on:** four authorial decisions (the *god vs.
+old word* gap is now settled by Peryn's "we kept the shelf, and lost the book" — the old word
+is lost, *god* is new). Four lamps lit now, and the hall is beginning to show its shape.
 
 ---
 *So charted, in the Library of Dyer Town. Update this map whenever a stub becomes prose or a
