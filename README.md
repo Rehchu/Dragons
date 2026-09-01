@@ -41,6 +41,16 @@ Chapters live in [`chapters/`](chapters/), numbered in reading order.
 - **The Wyrms** — not beasts, not enemies, not kings. The old tongues had a word for them.
   The new law threw it away. In Chapter Three, a man says it again.
 
+## Reference stand
+
+Behind the prose sits a four-legged reference stand, kept current on `town/draco`:
+
+- [`LORE.md`](LORE.md) — the canon bible (every settled fact, chapter by chapter).
+- [`LORE_TIMELINE.md`](LORE_TIMELINE.md) — the **canonical spine**: the four ages, the two wars,
+  and the Great Arising.
+- [`TIMELINE.md`](TIMELINE.md) — the event ledger (every event in true order, certainty-marked).
+- [`AUDIT.md`](AUDIT.md) — the review pass · [`GAP-MAP.md`](GAP-MAP.md) — the roadmap to 80k.
+
 ## Draft notes
 
 This is working prose on the branch `town/draco`, kept for the owner to review. Nothing here

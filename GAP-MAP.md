@@ -113,8 +113,10 @@ Beyond prose, the saga is missing these support files. Each is a small, high-lev
 - ✅ **Cast sheet** — **resolved in Ch.4.** All nine councillors are now named, with offices and
   stances, in `LORE.md` (Ormund of the Kilnward, Lisenne of the Fenreeve, Tobane the Younger join
   the six from Ch.3).
-- ⬛ **Timeline / calendar** — the book has *no dates* (AUDIT §3.6). The Long Cold, the "forty
-  years" since full council, and the breach need to sit on one spine.
+- ✅ **Timeline / calendar** — **delivered.** `TIMELINE.md` (the event ledger) and
+  `LORE_TIMELINE.md` (the canonical spine — the four ages, the two wars, the Great Arising) now
+  set the Long Cold, the "forty years" since full council, and the Great Arising on one spine.
+  The book still keeps no in-world dates by design; these two files are the reader-facing scaffold.
 - ⬛ **Map / gazetteer** — only Ashford, the Southern Marches, and the eastern baronies are
   named. Nine cities need at least names.
 - ✅ **`LORE.md`** — exists, current, maintained.
