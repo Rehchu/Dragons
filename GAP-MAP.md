@@ -31,7 +31,8 @@ The Gap Map is the *roadmap*; those two are the *survey* and the *ledger*. Read 
 | Official record | **`chapters: []`, 0 words logged** | dashboard `books.json`, `writing.daylog.json` |
 
 At a healthy epic-fantasy chapter length of **~3,000–3,500 words**, 80,000 words is roughly
-**24–27 chapters**. The saga therefore needs on the order of **22–25 more chapters** written.
+**24–27 chapters**. With 8 written and the roadmap below running continuously to Ch.25, the
+saga therefore needs **17 more chapters** written (09–11 · 12–16 · 17–22 · 23–25).
 Everything below plans against that shape.
 
 ---
@@ -63,7 +64,7 @@ conceived on the page — proposed here to complete the arc).
 |---|---|---|---|---|
 | 07 | Word of the Kneeling | ✅ written | 3,346 | **Now drafted.** The escaped word (Ch.6) is answered: the deputies' lie meets the beacon-woken cities; belief spreads by being *argued against*, until nine cities agree in writing the thing *might* be a god and disagree only over who may say so. Under the noise, the **older burning wakes** and *reaches* — not toward the chained god in the well but toward the *youngest* fire under the boy's hands at the gate — and the ground begins to warm. |
 | 08 | The Ember-Drake Wakes | ✅ written | 3,087 | **Now drafted.** The reaching *arrives.* The seam draws its last long breath and lets it go as heat; the sealed quarter cracks **well-to-gate**; the town, leaning **toward**, faces the red it cannot pray to. The **ember-drake comes up through the founders' well** (the door dug to read the future, so fit for the future to come through), passes the throne it does not take, warms the worn eight, and **stands up into the morning** as a column of banked red light. At the gate the **young note and old note become one note in two sizes**; then the great note lifts away and the egg strikes alone, *answered once and forever*. The boy makes the hearth-tongue's promise: *"I'll keep you till it's your turn."* |
-| 09 | The Nine Cities | ⬛ missing | 0 | Pull back to the league. Resolve **city ↔ councillor** (see AUDIT §3.1). Each seat answers what it has now *seen* with its own eyes — the map of the world finally drawn — and reckons there was **never only one**. |
+| 09 | The Nine Cities | ⬛ missing | 0 | Pull back to the league. Resolve **city ↔ councillor** (see AUDIT §4). Each seat answers what it has now *seen* with its own eyes — the map of the world finally drawn — and reckons there was **never only one**. |
 | 10 | The Long Cold Remembered | ⬛ missing | 0 | The past catastrophe defined at last (AUDIT defers this — pay it here). Why the cities fear, why Sera Lowe is different, what the founders' omen-reading once *was*. |
 | 11 | The Eastern Debt | ⬛ missing | 0 | Hedric's levies and the baronies' "debt in men" come due — a mustering that curdles as it's clear no army can war a god. |
 
@@ -97,7 +98,7 @@ governs multiple chapters:
 | **The three words** the wyrm spoke at the breach | Ch. 01 (and every echo after) | The author must *know* them, even if the reader never does. |
 | **Is *god* the old word,** or Aldric's coinage over a different lost word? | Ch. 04, 07, and the reversal | Sets whether the book has one central mystery or two. |
 | **Does the wyrm choose capture** as strategy, or is it compelled/prophesied? | All of Act I + the antagonist's whole logic | Defines the enemy's agency. |
-| **City ↔ councillor** relation; names of the nine seats | Ch. 08 and all geography | "One city, one councillor"? Or not? |
+| **City ↔ councillor** relation; names of the nine seats | Ch. 09 and all geography | "One city, one councillor"? Or not? |
 | ~~The "study" verdict crack~~ *(settled)* | ~~Ch. 06~~ | **Resolved:** Ch.6 does not re-litigate the vote; Sera's "study" is answered *in character* — her measuring became devotion (Ch.5) and her pages stop (Ch.6). "Study" was never a lawful finding; it was Sera's wall, and the god took it. No tally needed. |
 
 These are drawn straight from `AUDIT.md §4`. The Gap Map's contribution is showing *which
@@ -148,7 +149,7 @@ Beyond prose, the saga is missing these support files. Each is a small, high-lev
 **Written:** Ch. 01–08 (26,819 w, ~33.5%). Act I whole (01→02); Act II complete in its interior
 (03→04→05→06 — verdict, temple, the wing, the fracture); Act III open (07 the word runs the plain;
 08 the ember-drake wakes and stands up into the morning). **Next:** Ch. 09 — The Nine Cities
-(Act III opens; the escaped word is answered). **Missing:** ~16–18 chapters (Acts III–V) and two
+(Act III opens; the escaped word is answered). **Missing:** 17 chapters (Acts III–V — Ch.09–25) and two
 support files (`OUTLINE.md`, the map/gazetteer). **Blocked on:** the *god vs. old word* gap is
 settled (Peryn: "we kept the shelf, and lost the book"); the *study-crack* gap is settled (Ch.6,
 in character). **Six lamps lit now, and Act II has closed its door.**

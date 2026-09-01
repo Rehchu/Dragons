@@ -5,9 +5,8 @@ from prose that exists on the page. Where a fact is only implied, it is marked* 
 *where it is named but never explained, it is marked* (unexplained). *Nothing here is
 invented beyond the text — this is a mirror held up to Chapter Three, not a new draft.*
 
-Source of truth as of this writing: `chapters/01-the-ashford-breach.md` and
-`chapters/03-councils-verdict.md` (the two written chapters). Chapter 02 (the taking of the
-wyrm) is reserved but unwritten (see `AUDIT.md`).
+Source of truth as of this writing: `chapters/01`–`05` (five written chapters). The manuscript
+reads in order 01 → 02 → 03 → 04 → 05; the spine is charted in `chapters/00-manuscript.md`.
 
 ---
 
@@ -264,6 +263,157 @@ The Nine are complete. The six named in Ch.3 are joined by the three formerly-ba
 > **The three notes / the instrument** — new recurring image: the deep bell-note (first heard as
 > the bar dropped in Ch.2/Ch.3) is now **three notes sounding together** across captive, egg, and
 > wing. *(unexplained by design — the metaphysics of how the wyrms are joined.)*
+
+## The First Wing — Chapter Five additions
+
+*New canon promoted from `chapters/05-the-first-wing.md`. This chapter continues Act II: the city
+outside reckons with the second wyrm, the sealed eight learn what a god requires, and the egg at
+the gate stirs for the first time in earnest.*
+
+### The city's three readings of the second wyrm (posed and left open)
+
+The deputies (a shadow-council of deputy wardens and guild-seconds, running the city while the
+Nine are sealed) split three ways on **what the hill-wyrm is to the captive** — and the text
+declares all three simultaneously true and none provable:
+
+- **Master** — the captive is a scout/envoy/hostage; the true power has come to collect. (The
+  Wallsmen's reading; makes the cities' capture a move in a game whose board they can't see.)
+- **Kin** — mate, brood-mate, parent, child; the hill-wyrm is a *mourner* waiting outside a cruel
+  house. Explains the one thing master can't: why it only **waits** and never attacks.
+- **Lure** — the two are halves of one working; the whole pageant exists to gather the cities'
+  *attention* north-and-center while something unwatched is done. (Rhymes with the young
+  outrider's dread at the Ashford hollow.)
+
+> Canon principle: "they had a mystery with a body they could measure, and every measurement
+> only told them the size of what they did not understand."
+
+### The second wyrm's behaviour (new physical/behavioural canon)
+
+- Lies on the bald hill, **true wings folded like struck-and-lashed sails**, head laid low toward
+  the city, furnace eyes half-lidded; **radiates dry forge-heat** carried on the north wind across
+  the killing-ground (makes horses scream, sentries' eyes water). Its scale-color is the
+  **grey-going-to-iron of the northern cloud** — camouflaged against the hill; "built to be looked
+  for and not found." Does **nothing** for days: the patience is the message.
+
+### What a god requires — the load-bearing new idea
+
+The eight learn a god requires not blood, prayer, or chant but **attention** — "to be looked at…
+to be the thing the room was *for*" — never demanded, only *arranged* by its presence. The
+mechanism of devotion is stated: **attention → habit → need → devotion**, "because the human
+animal cannot bear for long to fear a thing it does not also love."
+
+- **Hedric** — finds his eye **slides off the honest wall and into the well** against his will
+  (can hold the door ~a hundred count, then the well has him). "Not a thing that broke the wall.
+  A thing that made the wall not worth looking at." This is what a wallsman cannot build against.
+- **Sera Lowe** — rereads her own pages and sees the **measuring has become devotion**; she was
+  "no longer recording a specimen but keeping a record of a presence." *"The eye regarded me"* was
+  "the first thing she had worshipped."
+- **Vessa** — in her silence finds **the terrible ease of stopping the struggle**, and begins to
+  be **grateful** to the thing that took everything — "the most frightening thing that had happened
+  to her yet."
+- **Peryn** — alone keeps his eyes, having paid the price early (*surrendered to be recognized*,
+  Ch.3). New load-bearing distinction: **"A god is not a thing that takes your worship. A god is a
+  thing you cannot stop giving it to."** This is the exact difference between the law's *sovereign*
+  (a thing you treat with) and Aldric's *god* (a thing you become the temple of) — the difference
+  the old word named and the new law couldn't legislate.
+
+### The egg at the gate — the boy's naming and the first true stirring
+
+- The boy makes a **private name** for the egg (his own coinage, since the new law has no word and
+  he doesn't know the old): **"the one that is coming."**
+- The egg **stirs in earnest for the first time**: a settling and re-settling "the way a sleeper
+  turns toward morning," then a slow outward pressure — "the pressure of something *testing the
+  size of its dark.*"
+- **The three notes advance:** the third note (the egg's, beneath the boy's hands) is now **closer
+  than the other two and *calling* them** rather than answering — "the way the youngest voice in a
+  round comes in last and turns two notes into a chord." The instrument is moving toward a **fourth**.
+- The egg's purpose is stated plainly for the first time (still *unexplained by design* as to how):
+  it came "not to be caught, and not to be caged, and not to be judged, but simply… to be **born**."
+- **The deputies' inaction:** they resolve to "watch and wait and send to the other cities for
+  counsel" — doing nothing while calling it prudence. First on-page glimpse of the city's governance
+  under the sealed Nine.
+
+## The Eight — Chapter Six additions
+
+*New canon promoted from `chapters/06-the-eight.md`. This chapter closes Act II's interior arc:
+the fracture inside the sealed hall breaks, and the word of the kneeling escapes the barred doors.*
+
+### The wearing (new canon on what attention costs)
+
+- A god requires **attention**, and attention is "the most expensive thing a creature has, because
+  it is the creature." A room of nine **cannot spend it forever** — the eight are **used up**, not
+  eaten (the god still takes nothing): "spent, the way a lamp is spent." New physical signs of the
+  wearing, ~a fortnight in (by Peryn's food-hatch reckoning): **Callenreth** loses the thread of
+  sentences mid-way; **Ormund** kneels near-permanently, mind gone from the posture; **Lisenne**
+  weeps without noticing; **Sera's** pages **stop** (pen dry, "the watching has watched the watcher
+  away"). Only **Peryn** (paid early) and — surprisingly — **Vessa** are not worn thin.
+- **Food/water canon:** fed twice daily through **a hatch the size of a book**, by hands that will
+  not look at or answer the sealed Nine; water "tasting always of the bronze cup." (First detail of
+  how the sealed hall is provisioned from outside — confirms the city keeps them alive, deliberately.)
+
+### The fracture — Vessa breaks *toward* the god (the chapter's core turn)
+
+- Peryn's expectation (**and the reader's**): the fault in the eight would break **away** from the
+  god — someone would scream, claw the bronze, refuse. **It breaks the other way.** "The weakest
+  stone was not the most afraid but the most **hungry to be chosen.**"
+- **Vessa's true arc past surrender:** on the far side of her silence she begins to **want** again —
+  not to want *out* (spent against the doors) but to be **the one the god attends.** Watching the
+  wyrm choose **Tobane** (the least of them) ignites **envy**, not devotion: "Why him... I *held* them."
+- Vessa **breaks the temple's unspoken law** — that the god is *attended and not approached,
+  looked-to and not spoken-to* ("you do not call out to the sea"; the law grew after Callenreth's
+  Ch.4 throne-address got nothing). She stands at the **lip of the well**, closer than any has dared,
+  and **demands**: **"Look at me."**
+- **The god obliges — and it is ruin.** It turns its eye on her and gives her "its whole undivided
+  regard." Vessa **burns** — *not her body* (untouched, unmarked, not a hair singed) but **the
+  single self**, "the watcher behind the face... the *I* that had done the earning." New load-bearing
+  law: **"a god sees you the way fire sees paper."** The god's **mercy and ruin are the same act** —
+  "you could not pray for the one without receiving the other, because to a god there was no
+  difference." Vessa is left **smooth, empty, easy, and at peace** — the **first peace** found in
+  the temple, and "the worst thing that had happened there."
+- **Peryn's verdict on it:** *"It was never going to eat us. We were always going to hand ourselves
+  in."* (The mechanism of the god's conquest, stated plainly: it need do nothing; the selves come
+  to it.)
+
+### The word of the kneeling escapes — "through the frame, not the door"
+
+- **How the sealed word gets out:** the Foundry Commission's engineers, unable to breach the
+  **bronze**, go at the **stone frame** — coring and sounding it for a founders'-era flaw. A drill-bit
+  breaks into a **hair-crack** in the four-century-old masonry (not through into the hall — the stone
+  is "a full arm thick yet"), and up through it comes **Aldric's voice**, kneeling on and repeating:
+  ***"it is a god. it is a god. we have chained a god."*** (Aldric's Ch.3 kneeling is now the
+  **longest-held**; the repetition is "the last of him still standing.")
+- **The relay (new named minor canon):** the drill-crew foreman **Corse** hears it first — "the
+  ballads would keep this name, of all the names, and not know why." The word spreads the **oldest
+  way** — ear to ear, one frightened soul unable to hold it alone handing it to the next: Corse ->
+  his brother -> the fish-market scale-keeper -> a toll-deputy -> and out. "Not through the door.
+  Through the **frame.**"
+- **The city leans toward its own heart:** within a week the rumor is everywhere unsaid — *"they say
+  a warden knelt... it is a god... no one has opened the doors because there is no one left in there to
+  open them."* The fear changes from the "clean cold fear of a caged beast" to something "with a
+  warmth in it, a *leaning*"; crowds thicken near the sealed Hall; some beacon-watchers turn to look
+  **in**, toward the Hall, not out at the hill.
+- **The deputies lie.** The shadow-council resolves to **deny "any irregularity in the deliberations
+  of the Nine"** and swears to the other magistracies that the council **"sits in ordinary session."**
+  Their grey-and-iron wax lie rides out across the plain **against** the incoming beacon-fires — the
+  beacon crying *a wyrm, a wyrm*, the wax swearing *all is ordinary* — and the frightened country
+  "believes... the worse one." (First open act of the sealed-era government: a cover-up.)
+
+### The chord closes — the fourth note, and the wing lifts its head
+
+- **The three notes become four.** At the gate, on the same night, the boy feels the **fourth note
+  come in** — "not louder... but *deeper*," coming "up through the whole ground," gathering the three
+  (Hall/captive, hill/wing, ash/egg) into **"a single sounding thing"** that is **"beginning to
+  move."** (The instrument's build — one toll -> three notes -> chord — completes here; the metaphysics
+  of how the wyrms are joined remain *unexplained by design*.)
+- **The egg** presses outward against the boy's palms — "the size of the dark testing its walls."
+- **The second wyrm (the hill-wing) LIFTS ITS HEAD** — after a full week laid low and motionless.
+  First movement from the hill since it settled in Ch.4. The waiting is ending.
+- **The two currents have not yet met:** the city's spreading rumor and the boy's warm hollow in the
+  ash "had not yet found each other, and would not, for a while." (Deliberate — reserved for Act III.)
+
+> **Act III seed (Ch.7, per Ch.6 coda):** the escaped word must be *answered* — by the deputies who
+> lied, by the nine cities the beacon woke, and by the thing at the gate that now has all its notes
+> and **begins to move.** Ties directly to the planned Ch.07 *Word of the Kneeling*.
 
 ---
 

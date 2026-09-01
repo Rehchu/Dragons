@@ -91,7 +91,7 @@ Long Cold, the living hinge between the old fear and the new law.
 > The Long Cold is the oldest *datable* event in the saga, because a living person is measured
 > against it. Everyone on the Nine remembers it except Sera Lowe. That is the only generational
 > clock the book gives us. Its nature, length, and cause are **(unfixed)** — reserved for a later
-> chapter (`AUDIT §4`; `GAP-MAP` Ch.09).
+> chapter (`AUDIT §4`; `GAP-MAP` Ch.10 — *The Long Cold Remembered*).
 
 ### Age Four — The Age of the Waking
 *The present of the saga · the older burning is touched again · Ch.1–4 live entirely here*

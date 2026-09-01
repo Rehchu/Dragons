@@ -62,7 +62,7 @@ refuses to say — noted, not invented).
 
 | When | Certainty | Event | Source |
 |---|---|---|---|
-| **The Long Cold** (duration ○, cause ○) | ● / ○ | A past catastrophe or age that still binds the Free Cities "by memory… more than by love." Its nature, length, and cause are **deliberately unfixed** (`AUDIT §4` defers this to a later chapter; `GAP-MAP` Ch.09). | LORE §History; README |
+| **The Long Cold** (duration ○, cause ○) | ● / ○ | A past catastrophe or age that still binds the Free Cities "by memory… more than by love." Its nature, length, and cause are **deliberately unfixed** (`AUDIT §4` defers this to a later chapter; `GAP-MAP` Ch.10 — *The Long Cold Remembered*). | LORE §History; README |
 | **The new law** replaces the old tongues | ● | The new law throws away the old word for the wyrms "because it could not be legislated." The Free Cities become a magistracy of law, not of omen. | LORE §History |
 | **Sera Lowe born** | ● | The **only councillor born *after* the Long Cold** — the living hinge between the old fear and the new law. This fixes her, alone of the Nine, on the near side of the catastrophe. | LORE §Nine; Ch.3 |
 
@@ -133,11 +133,21 @@ This is the fixed point. Days are counted from here.
 | The beacon | ● | The north-wall **watch-captain lights the beacon** ("the only thing forty years of drill left her able to do"). The warning-fire runs **hill to hill** across the plain, faster than a rider — Hedric's Ch.3 beacon-chain, paid off. | Ch.4; LORE §Ch.4 |
 | At the gate, same night | ● | **The egg stirs for the first time.** The boy of the night-watch, still kneeling, hears **not one bell-note but three at once** — captive (sealed hall), egg (the ash at his hands), wing (the northern hill): "a single vast unseen instrument beginning to be played." **The fourth kneeling** — framed as *perhaps, in the reckoning no ledger kept, the first,* because he alone knelt to the thing **not yet hatched.** | Ch.4 §close; LORE §Ch.4 |
 
+### The First Wing — the second fear, and what a god requires (Act II, still sealed) — Ch.5
+
+| When | Certainty | Event | Source |
+|---|---|---|---|
+| By the 2nd morning after the wing lands | ● | The **whole city climbs the north wall in shifts** to look at the hill-wyrm. It does **nothing** — wings folded like struck sails, head low, half-lidded eyes, forge-heat on the north wind. Captains "describe it to control it," timing its breath (as Sera times the captive's, neither knowing). | Ch.5 §"What the Hill Held" |
+| The deputies' sittings (same span) | ● | A **shadow-council of deputy wardens and guild-seconds** runs the city while the Nine are sealed. They split three ways on what the hill-wyrm is to the captive — **master / kin / lure** — all three left true, none provable. | Ch.5 §"Master, Kin, or Lure" |
+| Across the uncounted sealed days | ● | **The eight learn what a god requires: attention.** Hedric's eye slides off the wall into the well against his will; Sera's measuring turns to devotion (*"the eye regarded me"* = the first thing she worshipped); Vessa's silence becomes **gratitude**. Only **Peryn** keeps his eyes (paid early). Mechanism: attention → habit → need → devotion. | Ch.5 §"What a God Requires" |
+| The deputies resolve (one night) | ● | They resolve to **"watch and wait and send to the other cities for counsel"** — doing nothing while calling it prudence. First glimpse of city governance under the sealed Nine. | Ch.5 §"The Boy…" |
+| That same night, at the gate | ● | The boy names the egg **"the one that is coming."** The egg **stirs in earnest for the first time** — settling "the way a sleeper turns toward morning," then a slow outward pressure, "something *testing the size of its dark.*" The **third note** is now **closer than the other two and *calling* them** — the round turning two notes into a chord, moving toward a **fourth**. The boy does not run. | Ch.5 §close |
+
 ### Beyond the written page (teased, not yet drafted)
 
 | When | Certainty | Event | Source |
 |---|---|---|---|
-| Next (Ch.05 — *The First Wing*) | ○ | The city must reckon with the wing on the hill: is the captive **master, kin, or lure?** The sealed eight begin to learn what a god requires; the egg goes on stirring. | GAP-MAP Ch.05 (teased in Ch.4 coda) |
+| Next (Ch.06 — *The Eight*) | ○ | The **fracture** inside the sealed hall — a room of nine cannot attend a god forever without one breaking the attending; the word of the kneeling begins to find the cracks in the barred door. | GAP-MAP Ch.06 (teased in Ch.5 coda) |
 | Later (Acts III–V) | ○ | Word of the kneeling spreads; the nine cities react; the Long Cold is defined at last; the eastern debt comes due; belief becomes power; the reversal — *the creature had convened to judge them* — is paid off. | GAP-MAP §1; README |
 
 ---
