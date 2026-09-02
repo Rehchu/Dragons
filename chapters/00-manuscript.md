@@ -6,7 +6,7 @@ branch `town/draco`. For the road to 80k see [`../GAP-MAP.md`](../GAP-MAP.md); f
 [`../LORE.md`](../LORE.md); for the world's spine see [`../LORE_TIMELINE.md`](../LORE_TIMELINE.md).*
 
 > **Working title:** *Dragons* (the great dragon saga)
-> **Target:** 80,000 words · **Written:** 8 chapters, **26,819 words** (~34%)
+> **Target:** 80,000 words · **Written:** 10 chapters, **34,917 words** (~44%)
 > **Logline:** A council convened to judge a creature, and found, too late, that the creature
 > had convened to judge them.
 
@@ -27,7 +27,9 @@ part of the read; the story begins at Chapter One.
 | 06 | The Eight | II — The Verdict | 4,081 | Draft | [`06-the-eight.md`](06-the-eight.md) |
 | 07 | Word of the Kneeling | III — The Spread | 3,346 | Draft | [`07-word-of-the-kneeling.md`](07-word-of-the-kneeling.md) |
 | 08 | The Ember-Drake Wakes | III — The Spread | 3,087 | Draft | [`08-the-ember-drake-wakes.md`](08-the-ember-drake-wakes.md) |
-| 09 | The Nine Cities *(next)* | III — The Spread | — | Planned | — |
+| 09 | The Nine Cities | III — The Spread | 4,046 | Draft | [`09-the-nine-cities.md`](09-the-nine-cities.md) |
+| 10 | The Long Cold Remembered | III — The Spread | 4,052 | Draft | [`10-the-long-cold-remembered.md`](10-the-long-cold-remembered.md) |
+| 11 | The Eastern Debt *(next)* | III — The Spread | — | Planned | — |
 
 ---
 
@@ -41,12 +43,15 @@ part of the read; the story begins at Chapter One.
   names it *god*; the doors bar with no hand on them; the hall becomes a temple; the first true wing
   comes down from the north; the sealed eight learn what a god requires; and (Ch. 06) the attending
   breaks — *toward* the god — and the word of the kneeling escapes the bronze.
-- **Act III — The Spread** *(under way, Ch. 07–08 drafted):* word of the kneeling gets out and
+- **Act III — The Spread** *(under way, Ch. 07–10 drafted):* word of the kneeling gets out and
   runs the plain ear to ear, winning not by being believed but by being *argued against*; then the
   smell of smoke becomes the flame — the **older burning wakes**, comes up through the founders'
   well, and stands into the morning as a column of banked red light, so the nine cities wake to a
-  fire in the west where no sun rises. Still to come: the cities react; the Long Cold is defined;
-  the eastern debt comes due.
+  fire in the west where no sun rises; the league is redrawn from a ledger of edges into a ring of
+  nine warmths facing one fire, and reckons **there was never only one** (Ch. 09); then the oldest
+  dread is remembered at last — the **Long Cold** named not as a war but as the nameless unfightable
+  turning of the world against warmth that forged the league and made the cities throw the word away
+  (Ch. 10). Still to come: the **eastern debt** comes due against a thing that cannot be warred.
 - **Act IV — The Turning** *(planned):* belief becomes power; wings spread; the naming schism
   splits the league; Aldric becomes prophet, prisoner, or both.
 - **Act V — The Verdict Returned** *(planned):* the core reversal is paid off — who was judging
@@ -115,6 +120,32 @@ pitch); then the great note lifts away and the egg strikes alone again — *answ
 no longer the lost child's song. The boy makes the hearth-tongue's promise — *"I'll keep you till it's
 your turn. Hush now."* Seeds Ch. 09: the cities must answer what they have *seen*, and reckon there was
 never only one.
+
+**09 · The Nine Cities** — Pull back to the league. The ember-drake's standing goes out not up the
+beacon-chain but **through the ground the cities stand on** — one note, **nine hearings**: barges knock
+it down the River wharves, the Wallsmen's high tower finds nothing to war upon and leans *thin*, the
+Coinhouse abacus slides west of the last column, the Kilnward's banked kilns draw their draught, the
+Fenreeve's black water **rises** to it, the Marches say their kneeling lord's word at last in daylight,
+the Archive's **lost book falls open mute** on the stone; Callenreth and Sera, seatless, hear it purest
+through the temple floor. The map of the league **redraws itself** — from a ledger of edges into a ring
+of nine warmths facing one fire — and the cities look down at the sleeping thing they were built upon,
+then up, and understand the sentence that undoes every chain's arithmetic: **there was never only one.**
+Under the gate the youngest fire strikes clean into a world it knows now is full of its kind, and the
+boy is the one soul unafraid of the number — because he does not count the fires, he *keeps* them.
+
+**10 · The Long Cold Remembered** — The oldest dread comes forward, because a people about to be asked
+*how many more* must first remember what *once* was too many. The Long Cold is defined **in character,
+not in a ledger**: not a war (it had no enemy, no army, no battle) but the **nameless unfightable turning
+of the world against warmth** that huddled nine proud rival towns into one grudging league — bound *by
+cold and debt more than by love* — and changed a people of **omen** into a people of **law**. Its length
+stays **(unfixed)**: "a cold that long stops being an event and becomes a condition." **Sera Lowe**, the
+only councillor born *after* the Cold, spent her life calling its inherited dread a *ghost* — and is worn
+smooth understanding the grandparents were *right* and only had the century wrong. The **dry well** is
+revealed as a **decision, not a ruin** — the founders' listening-instrument, kept still to read the deep
+fire turn, let go dry when the new law chose **law over listening**; the god coils in it to be *read* by
+heirs who forgot how. And the **lost word** was not lost but *thrown away* — "not because it was false,
+but because it was true," the one truth no survivor of the Cold could bear to keep. Seeds Ch. 11: the
+**eastern debt** comes due, against a thing no army can war.
 
 ---
 

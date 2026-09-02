@@ -417,5 +417,102 @@ the fracture inside the sealed hall breaks, and the word of the kneeling escapes
 
 ---
 
+## Word of the Kneeling — Chapter Seven additions
+
+- **How belief spreads: by being *argued against*.** The deputies' lie meets the beacon-woken cities;
+  the word wins not by being believed but by being disputed, "until nine cities agree in writing the
+  thing *might* be a god and disagree only over who may say so." (Establishes the league's mode: it
+  cannot ratify a truth, only fail to suppress one.)
+- **The older burning wakes and *reaches*** — not toward the chained god in the well but toward the
+  **youngest fire** (the egg under the boy's hands at the gate). The ground begins to warm. (Sets the
+  ember-drake's target: it comes for the egg, not the throne.)
+
+## The Ember-Drake Wakes — Chapter Eight additions
+
+- **The ember-drake comes up through the founders' well** — "the door dug to read the future, so fit
+  for the future to come through." It **passes the throne it does not take**, warms the worn eight, and
+  **stands up into the morning as a column of banked red light.** (Canon: the second great wyrm — the
+  *elder*, never chained — rises from the dry well; the well is a *door*, not merely a seat.)
+- **The sealed quarter cracks well-to-gate**; the town, leaning **toward** the heat, "faces the red it
+  cannot pray to."
+- **Young note + old note = one note in two sizes;** the great note then lifts away and the egg "strikes
+  alone, *answered once and forever*." The boy makes the **hearth-tongue's promise**: *"I'll keep you
+  till it's your turn."* (The book's refrain-vow — carried forward in Ch.9–10.)
+
+## The Nine Cities — Chapter Nine additions
+
+### The nine seats named (resolves *city ↔ councillor*)
+- The league is **nine seats over seven city-holdings plus two seatless**, *not* a clean "one city,
+  one councillor." The seven city-seats, each heard through its own trusted thing:
+
+| City-seat | Councillor (of the Nine) | Deputy on the page | How the note reached it |
+|---|---|---|---|
+| **The River Guilds** | Vessa (chair empty 11 days) | **Harl** — "voted nothing in her life and been proud of it" | Barges **knock** hull to hull down the whole curved mile of wharf |
+| **The Wallsmen's city** | Hedric | **Doon**, a wall-captain, Hedric's second | Climbs the high wall to give an order, finds nothing to war upon; the wall leans **thin** |
+| **The Coinhouse** | Tobane the Younger | (unnamed deputy) | The abacus-beads **slide a finger's width west**, past "the last column, where the sums run out" |
+| **The Kilnward** | Ormund | (the kiln-masters, by their hands) | Every banked kiln **draws its draught west**; the Kilnward "understood soonest… with its hands" |
+| **The Fenreeve** | Lisenne | (unnamed deputy, ankle-deep) | The black fen-water **rises** — a *tide*, not a flood: "water always finds the low place… and we are the low place" |
+| **The Southern Marches** | Aldric ban Sorel | (runs on rumor) | Is **first of the nine to say the word in daylight and mean it** — Aldric "had not gone mad… he had gone *first*" |
+| **The Archive** | Peryn | (under-archivists with lamps) | The note shakes the stacks; the **lost book falls open, mute**, in an orthography no one alive can read — "kept the shelf, lost the book," made literal |
+
+- **The two seatless of the Nine:** **Callenreth**, the High Warden, "has no city… presides over all
+  nine and belongs to none"; **Sera Lowe**, "the only one of the Nine born after the Long Cold," whose
+  city "if she had one, was the future the study was meant to serve." Both hear the note *purest* —
+  "through the floor of the sealed hall directly, unmediated" — and so are "the two the histories
+  remember least."
+- **One note, nine hearings.** The ember-drake's standing travels **through the ground the cities stand
+  on**, not up the beacon-chain — "there is no faster road to a city than the floor of it." It is "not
+  nine wakings… one note, and nine hearings of it."
+- **The map redraws itself.** The league, always read as a **ledger of edges** (debts, grievances
+  between columns), is redrawn in one grey hour into **a ring of nine warmths facing one fire at the
+  center** — "nine fires kept small on the back of one fire kept sleeping."
+- **THE LOAD-BEARING LINE: *"There was never only one."*** A second wyrm (elder, never chained) proves
+  the number was never one — "the *one* had only ever been the one they happened to have caught." This
+  "undoes the arithmetic of every chain": a thing you cannot count, you cannot cage. (This is the hinge
+  the rest of the saga argues from.)
+- **The boy is the one soul unafraid of the number** — "he does not count the fires… he *keeps* them."
+  Under the gate the egg strikes its note "clean and sure into a world it now knows is full of its
+  kind." Canon: **there are more eggs banked in the ground under all nine cities**, unwoken.
+
+## The Long Cold Remembered — Chapter Ten additions
+
+- **What the Long Cold *was*:** **not a war.** "There was no army… no field it was fought on." It was
+  **the world turning against warmth** — cold "longer than a world had any business staying cold" —
+  with "no malice or intent or anything a wall could be built against." (Settles the saga's oldest
+  deferred question — see AUDIT — strictly *in character*, no ledger.)
+- **The league was forged by *absence*, not enemy.** "It was not an enemy that made the Free Cities. It
+  was the absence of one." Nine proud rival towns learned they "could not, any of them, outlast it
+  alone" — bound "**by cold and debt more than by love**," a bond "stronger than love and colder than
+  love" that lasts "exactly as long as the memory of the cold."
+- **Its length is *(unfixed by design)*:** "a cold that long stops being an event and becomes a
+  *condition,* and a condition has no length." It ended over a generation, not on a day.
+- **Sera Lowe — the hinge.** Born at the very tail of the Cold; ate "the grey siege-bread… with the
+  ground bark in it" as a child; grew up among the *behaviors* of the Cold (flinching grandparents,
+  hoarded crusts, over-steep roofs) and judged the inherited dread **a ghost**. Her whole life —
+  and her "study" verdict — was "a rebellion against inherited dread." She is worn smooth
+  understanding the grandparents were **right** and "only had the century wrong": *"They were right,
+  and I called it a ghost, and the ghost has come."* (Her last full sentence as herself.)
+- **The founders were a people of *omen*, not law.** They raised the **Hall of Nine Keys** around a
+  **reflecting well of pale marble** and governed by **reading still water** — not fortune-telling but
+  **listening**: a deliberately calmed surface kept "so that the faintest tremor of the deep thing
+  would show on its face." Divination was "the oldest and truest science the cities ever had."
+- **The dry well is a *decision, not a ruin*.** The Cold froze the well; the survivors came out "a
+  *different* people" who trusted granaries, walls, levies, ledgers — **law over listening** — and the
+  new law "let the water go… quietly reclassified the whole practice from *science* to *legend*." The
+  dry basin "is the exact place the cities chose law over listening" — and precisely why **the god
+  coiled there: it came to be *read*,** by heirs who forgot how.
+- **The lost word was *thrown away*, not lost.** The old tongue's word for the wyrms named "**the thing
+  under the ground that we cannot fight and must not forget.**" The new law discarded it **"not because
+  it was false, but because it was true"** — "a splinter of the old terror," the one truth "no survivor
+  could bear to keep." (Ties Peryn's Ch.6 "we kept the shelf, and lost the book" to its root cause: the
+  Long Cold is *when the word was thrown away*.)
+
+> **Act III seed (Ch.11, per Ch.10 coda):** the **eastern baronies' "debt in men"** (Hedric's levies,
+> the beacon-chain) comes **due** — a mustering that curdles as it becomes clear **no army can war a
+> god**, a thing that "had no army, made no threat, could not be fought, and did not care." Ties
+> directly to the planned Ch.11 *The Eastern Debt*.
+
+---
+
 *Maintained by Draco, town lorekeeper, on branch `town/draco`. Update this file whenever a new
 chapter promotes an* (implied) *or* (unexplained) *item into settled canon.*
