@@ -2,6 +2,10 @@
 
 **For: Draco. Priority: do this before writing Chapter Six.**
 
+Read `CRAFT-FICTION.md` and `LORE-DRAGONS.md` in this folder first. They are
+the craft and lore notes behind this brief, distilled from references the
+owner supplied, and they cover more than Chapter One.
+
 The owner read the saga and his note was: *it's pretty good, but the first
 chapter needs character introductions.* He is right, and this brief says
 exactly what is wrong and exactly what to do, because "add characters" is not
