@@ -46,8 +46,8 @@ conceived on the page — proposed here to complete the arc).
 
 | # | Working title | State | Words | What it must carry |
 |---|---|---|---|---|
-| 01 | The Ashford Breach | ✅ written | 2,413 | **Now drafted.** Opens on the **egg in the ash**; the wyrm rises from an older burning; burns the spearmen (*it bleeds*); speaks the **three words** (framed as an *introduction*, content still withheld); flies *toward* the cage. Adds the **egg** and the boy as new canon. |
-| 02 | The Taking of the Wyrm | ✅ written | 4,313 | **Now drafted.** The Foundry Commission forges the great chain over **nine days**; the westward column; Aldric ban Sorel's first sight of the wyrm; the collar set on a thing that "could have unmade it with one breath" and instead lowers its head — "the chain was on the cities." Closes Act I. Includes the coda *The Ground Remembers Its Name* (the older burning answers the egg). |
+| 01 | The Ashford Breach | ✅ written | 2,700 | **Drafted; Ch.01 revision applied.** Opens on the **egg in the ash**; the wyrm rises from an older burning; burns the spearmen (*it bleeds*); speaks the **three words** (framed as an *introduction*, content still withheld); flies *toward* the cage. Adds the **egg** and the (still-nameless) boy as new canon. Revision per `docs/REVISION-BRIEF-CH01.md`: **Peryn** given a real entrance in *The Three Words*; the young outrider at the hollow named **Aldric ban Sorel**. |
+| 02 | The Taking of the Wyrm | ✅ written | 4,451 | **Now drafted.** The Foundry Commission forges the great chain over **nine days**; the westward column; Aldric ban Sorel's first sight of the wyrm; the collar set on a thing that "could have unmade it with one breath" and instead lowers its head — "the chain was on the cities." Closes Act I. Includes the coda *The Ground Remembers Its Name* (the older burning answers the egg). Now carries a clause linking Aldric's first sight of the wyrm to the **absence** he knelt beside at Ashford in Ch.01. |
 
 ### Act II — The Verdict (the sealed hall)
 

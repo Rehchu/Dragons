@@ -19,8 +19,8 @@ part of the read; the story begins at Chapter One.
 
 | # | Title | Act | Words | Status | File |
 |---|-------|-----|------:|--------|------|
-| 01 | The Ashford Breach | I — The Taking | 2,413 | Draft | [`01-the-ashford-breach.md`](01-the-ashford-breach.md) |
-| 02 | The Taking of the Wyrm | I — The Taking | 4,313 | Draft | [`02-the-taking-of-the-wyrm.md`](02-the-taking-of-the-wyrm.md) |
+| 01 | The Ashford Breach | I — The Taking | 2,700 | Draft | [`01-the-ashford-breach.md`](01-the-ashford-breach.md) |
+| 02 | The Taking of the Wyrm | I — The Taking | 4,451 | Draft | [`02-the-taking-of-the-wyrm.md`](02-the-taking-of-the-wyrm.md) |
 | 03 | The Council's Verdict | II — The Verdict | 2,032 | Draft | [`03-councils-verdict.md`](03-councils-verdict.md) |
 | 04 | The Temple That Was a Hall | II — The Verdict | 3,848 | Draft | [`04-the-temple-that-was-a-hall.md`](04-the-temple-that-was-a-hall.md) |
 | 05 | The First Wing | II — The Verdict | 3,699 | Draft | [`05-the-first-wing.md`](05-the-first-wing.md) |
