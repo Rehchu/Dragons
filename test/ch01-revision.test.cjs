@@ -86,6 +86,18 @@ ok('Ch.2 keeps the two sightings distinct ("It was not the first time it had fri
 ok('no leftover un-named "young one" outrider standing beside the named Aldric',
   !/a young one, knelt at the edge/.test(CH01));
 
+// 8. The brief's "What NOT to do" list — the refusals that make the chapter work.
+// These guard against a well-meaning future edit quietly bolting on the very
+// things the brief forbids. The prose honours all of them today; lock it in.
+ok('no prologue or dramatis-personae page bolted on',
+  !/^\s*(prologue|dramatis personae|cast of characters)\b/im.test(CH01));
+ok('chapter does not open on Aldric waking up (opens on the boy and the egg)',
+  /^The boy found it\./m.test(CH01) &&
+  !/Aldric[^.]*\b(woke|awoke|opened his eyes)\b/i.test(CH01));
+ok('the three words are never spelled out (the refusal is the promise)',
+  !/the three words were[:\s]|the words were:/i.test(CH01) &&
+  /she would not repeat the three words/.test(CH01));
+
 console.log('');
 if (failures) {
   console.log(`${failures} check(s) FAILED — the Ch.01 revision has regressed against its brief.\n`);
