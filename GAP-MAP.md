@@ -23,9 +23,9 @@ The Gap Map is the *roadmap*; those two are the *survey* and the *ledger*. Read 
 | Measure | Value | Source |
 |---|---|---|
 | Target length | **80,000 words** | `README.md`, dashboard `books.json` |
-| Written so far | **10 chapters — 34,917 words** | `wc -w chapters/*.md` |
-| Percent of target written | **≈ 43.6 %** | 34,917 / 80,000 |
-| Words remaining | **≈ 45,083** | — |
+| Written so far | **10 chapters — 35,342 words** | `wc -w chapters/0[1-9]*.md chapters/10*.md` (prose only; excludes the index) |
+| Percent of target written | **≈ 44.2 %** | 35,342 / 80,000 |
+| Words remaining | **≈ 44,658** | — |
 | Chapters written | **10** (Ch. 01–10) | — |
 | Chapters reserved-but-empty | **0 named** (Acts I–II whole, Act III drafted through Ch.10); **1 teased** (Ch. 11 — The Eastern Debt) | Ch.10 coda |
 | Official record | **`chapters: []`, 0 words logged** | dashboard `books.json`, `writing.daylog.json` |
@@ -55,7 +55,7 @@ conceived on the page — proposed here to complete the arc).
 |---|---|---|---|---|
 | 03 | The Council's Verdict | ✅ written | 2,032 | **Exists and strong.** The Nine convene; Aldric kneels and names it *god*; the doors bar with no hand on them. The saga's thesis, dramatised. |
 | 04 | The Temple That Was a Hall | ✅ written | 3,848 | **Now drafted.** The barred hall becomes a temple; the **eight** each arrive at a private name; the **three unnamed councillors are named** (Ormund, Lisenne, Tobane); Tobane's *"it sees me"* finishes the turn; **the first true wing** comes down out of the northern cloud, circles, and settles on the hill north of the gate; the beacon-chain is lit; the egg stirs and the boy hears **three notes at once**. |
-| 05 | The First Wing | ✅ written | 3,661 | **Now drafted.** The city reckons with the wing on the northern hill and splits three ways — **master, kin, or lure** (all three left true). The sealed eight learn what a god requires: **attention**, freely then helplessly given. At the gate the boy names the egg *the one that is coming*; it **stirs and tests the size of its dark**; the third note rises from *answer* to *call*. |
+| 05 | The First Wing | ✅ written | 3,699 | **Now drafted.** The city reckons with the wing on the northern hill and splits three ways — **master, kin, or lure** (all three left true). The sealed eight learn what a god requires: **attention**, freely then helplessly given. At the gate the boy names the egg *the one that is coming*; it **stirs and tests the size of its dark**; the third note rises from *answer* to *call*. |
 | 06 | The Eight | ✅ written | 4,081 | **Now drafted.** The **fracture** breaks — but *toward* the god, not away: **Vessa** demands the god's regard ("Look at me"), receives it, and is burned smooth into the temple's first peace ("a god sees you the way fire sees paper"). Peryn: "It was never going to eat us. We were always going to hand ourselves in." And the **word of the kneeling escapes** — not through the bronze door but through the **frame**: engineers core the stone, Aldric's *"it is a god"* leaks up the crack, foreman **Corse** carries it out ear-to-ear; the deputies **lie** to the cities. The chord closes (a **fourth note**); the hill-wing **lifts its head**. Closes Act II's interior. |
 
 ### Act III — The Spread (the word gets out)
@@ -149,7 +149,7 @@ Beyond prose, the saga is missing these support files. Each is a small, high-lev
 
 ## 5. One-line status
 
-**Written:** Ch. 01–10 (34,917 w, ~43.6%). Act I whole (01→02); Act II complete in its interior
+**Written:** Ch. 01–10 (35,342 w, ~44.2%). Act I whole (01→02); Act II complete in its interior
 (03→04→05→06 — verdict, temple, the wing, the fracture); Act III drafted through Ch.10 (07 the word
 runs the plain; 08 the ember-drake wakes and stands up into the morning; 09 the nine cities hear one
 note in nine tongues and reckon *there was never only one*; 10 the Long Cold is remembered at last).
